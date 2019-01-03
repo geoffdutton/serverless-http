@@ -50,6 +50,7 @@ Your code is running in a serverless environment. You cannot rely on your server
 ## Contributing
 
 Pull requests are welcome! Especially test scenarios for different situations and configurations.
+*Note:* Requires Node 8+ for testing.
 
 ## Further Reading
 
